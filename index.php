@@ -6,17 +6,15 @@
     <body>
         <p>
             <?php
-            echo "Hello World";
-            echo "Hello," . " " . "world" . "!";
-            echo 5*7;
+            echo "<p>Hello World</p>";
+            echo "<p>Hello," . " " . "world" . "!</p>";
+            echo "<p>" . 5*7 . "</p>";
             $myname = "OnyC";
             $bignumbers = 84877496;
             if ($bignumbers > 1){
-                print "I wasn't told the difference between echo and print";
+                print "<p>I wasn't told the difference between echo and print</p>";
             }
-            echo "Time for the difference";
-            echo "Name: ".$myname.", Age: ".$bignumbers;
-            print "Name: ".$myname.", Age: ".$bignumbers;
+            echo "<p>help</p>";
             ?>
         </p>
     </body>
