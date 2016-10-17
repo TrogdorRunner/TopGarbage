@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
-    <title>My First Day on the Jay</title>
+        <title>My First Day on the Jay</title>
     </head>
     <body>
         <p>
@@ -23,8 +23,11 @@
             array_push($myArray, "See");
             print count($myArray);
             ?>
-
+        </p>
+        <br>
+        <p>
             <a href="sblounskched.html">SBLOUNSKCHED!</a>
+            <a href="https://lainchan.org/%CE%BB">lain</a>
         </p>
     </body>
 </html>
