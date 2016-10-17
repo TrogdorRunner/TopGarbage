@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-
+    <title>My First Day on the Jay</title>
     </head>
     <body>
         <p>
@@ -23,6 +23,8 @@
             array_push($myArray, "See");
             print count($myArray);
             ?>
+
+            <a href="sblounskched.html">SBLOUNSKCHED!</a>
         </p>
     </body>
 </html>
